@@ -1,0 +1,3 @@
+fullstops = ". " * 1000000000
+
+print(fullstops)
