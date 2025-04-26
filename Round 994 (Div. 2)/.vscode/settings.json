@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "*.py": "python",
-        "tuple": "cpp",
-        "type_traits": "cpp",
-        "utility": "cpp",
-        "xutility": "cpp"
-    }
-}
